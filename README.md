@@ -17,7 +17,7 @@ Note: babel is installed but the scripts are written in ES5 so you can choose to
 
 ==With GIT:
 - git init
-- git remote origin https://bitbucket.org/kibeuh/triangulararbitrage
+- git remote origin https://bitbucket.org/triangulararbitrage
 - git remote -v
 - git pull origin master
 
