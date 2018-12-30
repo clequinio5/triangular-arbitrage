@@ -1,0 +1,33 @@
+{
+  "name": "triangular-arbitrage",
+  "version": "0.1.7",
+  "description": "triangularArbitrage",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-core": "^6.25.0",
+    "babel-preset-env": "^1.6.0"
+  },
+  "dependencies": {
+    "bitfinex-api-node": "^1.2.0",
+    "cli-color": "^1.2.0",
+    "lodash": "4.17.4",
+    "moment": "2.18.1",
+    "telegram-api": "0.7.9"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://bitbucket.org/kibeuh/triangulararbitrage"
+  },
+  "readmeFilename": "README.md",
+  "scripts": {
+    "analysis": "babel 1-analysis.js --plugins transform-regenerator --out-file 1-analysis-compiled.js && node 1-analysis-compiled.js",
+    "trading": "babel 2-trading.js --plugins transform-regenerator --out-file 2-trading-compiled.js && node 2-trading-compiled.js",
+    "start-analysis": "node 1-analysis-compiled.js",
+    "build-analysis": "babel 1-analysis.js --plugins transform-regenerator --out-file 1-analysis-compiled.js",
+    "start-trading": "node 2-trading-compiled.js",
+    "build-trading": "babel 2-trading.js --plugins transform-regenerator --out-file 2-trading-compiled.js",
+    "ana": "node 1-analysis.js",
+    "tra": "node 2-trading.js"
+  }
+}

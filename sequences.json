@@ -1,0 +1,2090 @@
+[
+    {
+        "codes": [
+            "1",
+            "0",
+            "0"
+        ],
+        "pairs": [
+            "BCHEUR",
+            "BCHXBT",
+            "XXBTZEUR"
+        ]
+    },
+    {
+        "codes": [
+            "1",
+            "1",
+            "0"
+        ],
+        "pairs": [
+            "XETHZEUR",
+            "XREPXETH",
+            "XREPZEUR"
+        ]
+    },
+    {
+        "codes": [
+            "1",
+            "1",
+            "0"
+        ],
+        "pairs": [
+            "XETHZEUR",
+            "XETCXETH",
+            "XETCZEUR"
+        ]
+    },
+    {
+        "codes": [
+            "1",
+            "0",
+            "0"
+        ],
+        "pairs": [
+            "XETHZEUR",
+            "XETHXXBT",
+            "XXBTZEUR"
+        ]
+    },
+    {
+        "codes": [
+            "1",
+            "0",
+            "0"
+        ],
+        "pairs": [
+            "XZECZEUR",
+            "XZECXXBT",
+            "XXBTZEUR"
+        ]
+    },
+    {
+        "codes": [
+            "1",
+            "0",
+            "0"
+        ],
+        "pairs": [
+            "XLTCZEUR",
+            "XLTCXXBT",
+            "XXBTZEUR"
+        ]
+    },
+    {
+        "codes": [
+            "1",
+            "0",
+            "0"
+        ],
+        "pairs": [
+            "XREPZEUR",
+            "XREPXETH",
+            "XETHZEUR"
+        ]
+    },
+    {
+        "codes": [
+            "1",
+            "0",
+            "0"
+        ],
+        "pairs": [
+            "XREPZEUR",
+            "XREPXXBT",
+            "XXBTZEUR"
+        ]
+    },
+    {
+        "codes": [
+            "1",
+            "0",
+            "0"
+        ],
+        "pairs": [
+            "XXMRZEUR",
+            "XXMRXXBT",
+            "XXBTZEUR"
+        ]
+    },
+    {
+        "codes": [
+            "1",
+            "0",
+            "0"
+        ],
+        "pairs": [
+            "DASHEUR",
+            "DASHXBT",
+            "XXBTZEUR"
+        ]
+    },
+    {
+        "codes": [
+            "1",
+            "0",
+            "0"
+        ],
+        "pairs": [
+            "XETCZEUR",
+            "XETCXETH",
+            "XETHZEUR"
+        ]
+    },
+    {
+        "codes": [
+            "1",
+            "0",
+            "0"
+        ],
+        "pairs": [
+            "XETCZEUR",
+            "XETCXXBT",
+            "XXBTZEUR"
+        ]
+    },
+    {
+        "codes": [
+            "1",
+            "0",
+            "0"
+        ],
+        "pairs": [
+            "XXRPZEUR",
+            "XXRPXXBT",
+            "XXBTZEUR"
+        ]
+    },
+    {
+        "codes": [
+            "1",
+            "1",
+            "0"
+        ],
+        "pairs": [
+            "XXBTZEUR",
+            "BCHXBT",
+            "BCHEUR"
+        ]
+    },
+    {
+        "codes": [
+            "1",
+            "1",
+            "0"
+        ],
+        "pairs": [
+            "XXBTZEUR",
+            "XETHXXBT",
+            "XETHZEUR"
+        ]
+    },
+    {
+        "codes": [
+            "1",
+            "1",
+            "0"
+        ],
+        "pairs": [
+            "XXBTZEUR",
+            "XZECXXBT",
+            "XZECZEUR"
+        ]
+    },
+    {
+        "codes": [
+            "1",
+            "1",
+            "0"
+        ],
+        "pairs": [
+            "XXBTZEUR",
+            "XLTCXXBT",
+            "XLTCZEUR"
+        ]
+    },
+    {
+        "codes": [
+            "1",
+            "1",
+            "0"
+        ],
+        "pairs": [
+            "XXBTZEUR",
+            "XREPXXBT",
+            "XREPZEUR"
+        ]
+    },
+    {
+        "codes": [
+            "1",
+            "1",
+            "0"
+        ],
+        "pairs": [
+            "XXBTZEUR",
+            "XXMRXXBT",
+            "XXMRZEUR"
+        ]
+    },
+    {
+        "codes": [
+            "1",
+            "1",
+            "0"
+        ],
+        "pairs": [
+            "XXBTZEUR",
+            "DASHXBT",
+            "DASHEUR"
+        ]
+    },
+    {
+        "codes": [
+            "1",
+            "1",
+            "0"
+        ],
+        "pairs": [
+            "XXBTZEUR",
+            "XETCXXBT",
+            "XETCZEUR"
+        ]
+    },
+    {
+        "codes": [
+            "1",
+            "1",
+            "0"
+        ],
+        "pairs": [
+            "XXBTZEUR",
+            "XXRPXXBT",
+            "XXRPZEUR"
+        ]
+    },
+    {
+        "codes": [
+            "1",
+            "0",
+            "0"
+        ],
+        "pairs": [
+            "XETHZCAD",
+            "XETHXXBT",
+            "XXBTZCAD"
+        ]
+    },
+    {
+        "codes": [
+            "1",
+            "1",
+            "0"
+        ],
+        "pairs": [
+            "XXBTZCAD",
+            "XETHXXBT",
+            "XETHZCAD"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "1",
+            "1"
+        ],
+        "pairs": [
+            "BCHEUR",
+            "XXBTZEUR",
+            "BCHXBT"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "1",
+            "1"
+        ],
+        "pairs": [
+            "BCHUSD",
+            "XXBTZUSD",
+            "BCHXBT"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "0",
+            "1"
+        ],
+        "pairs": [
+            "BCHXBT",
+            "XXBTZEUR",
+            "BCHEUR"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "0",
+            "1"
+        ],
+        "pairs": [
+            "BCHXBT",
+            "XXBTZUSD",
+            "BCHUSD"
+        ]
+    },
+    {
+        "codes": [
+            "1",
+            "0",
+            "0"
+        ],
+        "pairs": [
+            "BCHUSD",
+            "BCHXBT",
+            "XXBTZUSD"
+        ]
+    },
+    {
+        "codes": [
+            "1",
+            "1",
+            "0"
+        ],
+        "pairs": [
+            "XETHZUSD",
+            "XETCXETH",
+            "XETCZUSD"
+        ]
+    },
+    {
+        "codes": [
+            "1",
+            "0",
+            "0"
+        ],
+        "pairs": [
+            "XETHZUSD",
+            "XETHXXBT",
+            "XXBTZUSD"
+        ]
+    },
+    {
+        "codes": [
+            "1",
+            "0",
+            "0"
+        ],
+        "pairs": [
+            "XZECZUSD",
+            "XZECXXBT",
+            "XXBTZUSD"
+        ]
+    },
+    {
+        "codes": [
+            "1",
+            "0",
+            "0"
+        ],
+        "pairs": [
+            "XLTCZUSD",
+            "XLTCXXBT",
+            "XXBTZUSD"
+        ]
+    },
+    {
+        "codes": [
+            "1",
+            "0",
+            "0"
+        ],
+        "pairs": [
+            "XXMRZUSD",
+            "XXMRXXBT",
+            "XXBTZUSD"
+        ]
+    },
+    {
+        "codes": [
+            "1",
+            "0",
+            "0"
+        ],
+        "pairs": [
+            "DASHUSD",
+            "DASHXBT",
+            "XXBTZUSD"
+        ]
+    },
+    {
+        "codes": [
+            "1",
+            "0",
+            "0"
+        ],
+        "pairs": [
+            "XETCZUSD",
+            "XETCXETH",
+            "XETHZUSD"
+        ]
+    },
+    {
+        "codes": [
+            "1",
+            "0",
+            "0"
+        ],
+        "pairs": [
+            "XETCZUSD",
+            "XETCXXBT",
+            "XXBTZUSD"
+        ]
+    },
+    {
+        "codes": [
+            "1",
+            "0",
+            "0"
+        ],
+        "pairs": [
+            "XXRPZUSD",
+            "XXRPXXBT",
+            "XXBTZUSD"
+        ]
+    },
+    {
+        "codes": [
+            "1",
+            "1",
+            "0"
+        ],
+        "pairs": [
+            "XXBTZUSD",
+            "BCHXBT",
+            "BCHUSD"
+        ]
+    },
+    {
+        "codes": [
+            "1",
+            "1",
+            "0"
+        ],
+        "pairs": [
+            "XXBTZUSD",
+            "XETHXXBT",
+            "XETHZUSD"
+        ]
+    },
+    {
+        "codes": [
+            "1",
+            "1",
+            "0"
+        ],
+        "pairs": [
+            "XXBTZUSD",
+            "XZECXXBT",
+            "XZECZUSD"
+        ]
+    },
+    {
+        "codes": [
+            "1",
+            "1",
+            "0"
+        ],
+        "pairs": [
+            "XXBTZUSD",
+            "XLTCXXBT",
+            "XLTCZUSD"
+        ]
+    },
+    {
+        "codes": [
+            "1",
+            "1",
+            "0"
+        ],
+        "pairs": [
+            "XXBTZUSD",
+            "XXMRXXBT",
+            "XXMRZUSD"
+        ]
+    },
+    {
+        "codes": [
+            "1",
+            "1",
+            "0"
+        ],
+        "pairs": [
+            "XXBTZUSD",
+            "DASHXBT",
+            "DASHUSD"
+        ]
+    },
+    {
+        "codes": [
+            "1",
+            "1",
+            "0"
+        ],
+        "pairs": [
+            "XXBTZUSD",
+            "XETCXXBT",
+            "XETCZUSD"
+        ]
+    },
+    {
+        "codes": [
+            "1",
+            "1",
+            "0"
+        ],
+        "pairs": [
+            "XXBTZUSD",
+            "XXRPXXBT",
+            "XXRPZUSD"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "0",
+            "1"
+        ],
+        "pairs": [
+            "EOSETH",
+            "XETHXXBT",
+            "EOSXBT"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "1",
+            "1"
+        ],
+        "pairs": [
+            "EOSXBT",
+            "XETHXXBT",
+            "EOSETH"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "1",
+            "0"
+        ],
+        "pairs": [
+            "XETHZEUR",
+            "XREPZEUR",
+            "XREPXETH"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "1",
+            "0"
+        ],
+        "pairs": [
+            "XETHZEUR",
+            "XETCZEUR",
+            "XETCXETH"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "1",
+            "1"
+        ],
+        "pairs": [
+            "XETHZEUR",
+            "XXBTZEUR",
+            "XETHXXBT"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "1",
+            "1"
+        ],
+        "pairs": [
+            "XETHZCAD",
+            "XXBTZCAD",
+            "XETHXXBT"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "1",
+            "0"
+        ],
+        "pairs": [
+            "XETHZUSD",
+            "XETCZUSD",
+            "XETCXETH"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "1",
+            "1"
+        ],
+        "pairs": [
+            "XETHZUSD",
+            "XXBTZUSD",
+            "XETHXXBT"
+        ]
+    },
+    {
+        "codes": [
+            "1",
+            "0",
+            "1"
+        ],
+        "pairs": [
+            "EOSETH",
+            "EOSXBT",
+            "XETHXXBT"
+        ]
+    },
+    {
+        "codes": [
+            "1",
+            "0",
+            "1"
+        ],
+        "pairs": [
+            "GNOETH",
+            "GNOXBT",
+            "XETHXXBT"
+        ]
+    },
+    {
+        "codes": [
+            "1",
+            "0",
+            "1"
+        ],
+        "pairs": [
+            "XREPXETH",
+            "XREPZEUR",
+            "XETHZEUR"
+        ]
+    },
+    {
+        "codes": [
+            "1",
+            "0",
+            "1"
+        ],
+        "pairs": [
+            "XREPXETH",
+            "XREPXXBT",
+            "XETHXXBT"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "1",
+            "1"
+        ],
+        "pairs": [
+            "XETHZGBP",
+            "XXBTZGBP",
+            "XETHXXBT"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "1",
+            "1"
+        ],
+        "pairs": [
+            "XETHZJPY",
+            "XXBTZJPY",
+            "XETHXXBT"
+        ]
+    },
+    {
+        "codes": [
+            "1",
+            "0",
+            "1"
+        ],
+        "pairs": [
+            "XETCXETH",
+            "XETCZEUR",
+            "XETHZEUR"
+        ]
+    },
+    {
+        "codes": [
+            "1",
+            "0",
+            "1"
+        ],
+        "pairs": [
+            "XETCXETH",
+            "XETCZUSD",
+            "XETHZUSD"
+        ]
+    },
+    {
+        "codes": [
+            "1",
+            "0",
+            "1"
+        ],
+        "pairs": [
+            "XETCXETH",
+            "XETCXXBT",
+            "XETHXXBT"
+        ]
+    },
+    {
+        "codes": [
+            "1",
+            "0",
+            "1"
+        ],
+        "pairs": [
+            "XICNXETH",
+            "XICNXXBT",
+            "XETHXXBT"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "0",
+            "1"
+        ],
+        "pairs": [
+            "XETHXXBT",
+            "XXBTZEUR",
+            "XETHZEUR"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "0",
+            "1"
+        ],
+        "pairs": [
+            "XETHXXBT",
+            "XXBTZCAD",
+            "XETHZCAD"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "0",
+            "1"
+        ],
+        "pairs": [
+            "XETHXXBT",
+            "XXBTZUSD",
+            "XETHZUSD"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "1",
+            "0"
+        ],
+        "pairs": [
+            "XETHXXBT",
+            "EOSXBT",
+            "EOSETH"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "1",
+            "0"
+        ],
+        "pairs": [
+            "XETHXXBT",
+            "GNOXBT",
+            "GNOETH"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "1",
+            "0"
+        ],
+        "pairs": [
+            "XETHXXBT",
+            "XREPXXBT",
+            "XREPXETH"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "0",
+            "1"
+        ],
+        "pairs": [
+            "XETHXXBT",
+            "XXBTZGBP",
+            "XETHZGBP"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "0",
+            "1"
+        ],
+        "pairs": [
+            "XETHXXBT",
+            "XXBTZJPY",
+            "XETHZJPY"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "1",
+            "0"
+        ],
+        "pairs": [
+            "XETHXXBT",
+            "XETCXXBT",
+            "XETCXETH"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "1",
+            "0"
+        ],
+        "pairs": [
+            "XETHXXBT",
+            "XICNXXBT",
+            "XICNXETH"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "1",
+            "0"
+        ],
+        "pairs": [
+            "XETHXXBT",
+            "XMLNXXBT",
+            "XMLNXETH"
+        ]
+    },
+    {
+        "codes": [
+            "1",
+            "0",
+            "1"
+        ],
+        "pairs": [
+            "XMLNXETH",
+            "XMLNXXBT",
+            "XETHXXBT"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "0",
+            "1"
+        ],
+        "pairs": [
+            "GNOETH",
+            "XETHXXBT",
+            "GNOXBT"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "1",
+            "1"
+        ],
+        "pairs": [
+            "GNOXBT",
+            "XETHXXBT",
+            "GNOETH"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "1",
+            "1"
+        ],
+        "pairs": [
+            "XZECZEUR",
+            "XXBTZEUR",
+            "XZECXXBT"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "1",
+            "1"
+        ],
+        "pairs": [
+            "XZECZUSD",
+            "XXBTZUSD",
+            "XZECXXBT"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "0",
+            "1"
+        ],
+        "pairs": [
+            "XZECXXBT",
+            "XXBTZEUR",
+            "XZECZEUR"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "0",
+            "1"
+        ],
+        "pairs": [
+            "XZECXXBT",
+            "XXBTZUSD",
+            "XZECZUSD"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "1",
+            "1"
+        ],
+        "pairs": [
+            "XLTCZEUR",
+            "XXBTZEUR",
+            "XLTCXXBT"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "1",
+            "1"
+        ],
+        "pairs": [
+            "XLTCZUSD",
+            "XXBTZUSD",
+            "XLTCXXBT"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "0",
+            "1"
+        ],
+        "pairs": [
+            "XLTCXXBT",
+            "XXBTZEUR",
+            "XLTCZEUR"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "0",
+            "1"
+        ],
+        "pairs": [
+            "XLTCXXBT",
+            "XXBTZUSD",
+            "XLTCZUSD"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "1",
+            "1"
+        ],
+        "pairs": [
+            "XREPZEUR",
+            "XETHZEUR",
+            "XREPXETH"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "1",
+            "1"
+        ],
+        "pairs": [
+            "XREPZEUR",
+            "XXBTZEUR",
+            "XREPXXBT"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "0",
+            "1"
+        ],
+        "pairs": [
+            "XREPXETH",
+            "XETHZEUR",
+            "XREPZEUR"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "0",
+            "1"
+        ],
+        "pairs": [
+            "XREPXETH",
+            "XETHXXBT",
+            "XREPXXBT"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "0",
+            "1"
+        ],
+        "pairs": [
+            "XREPXXBT",
+            "XXBTZEUR",
+            "XREPZEUR"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "1",
+            "1"
+        ],
+        "pairs": [
+            "XREPXXBT",
+            "XETHXXBT",
+            "XREPXETH"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "1",
+            "1"
+        ],
+        "pairs": [
+            "XXMRZEUR",
+            "XXBTZEUR",
+            "XXMRXXBT"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "1",
+            "1"
+        ],
+        "pairs": [
+            "XXMRZUSD",
+            "XXBTZUSD",
+            "XXMRXXBT"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "0",
+            "1"
+        ],
+        "pairs": [
+            "XXMRXXBT",
+            "XXBTZEUR",
+            "XXMRZEUR"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "0",
+            "1"
+        ],
+        "pairs": [
+            "XXMRXXBT",
+            "XXBTZUSD",
+            "XXMRZUSD"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "1",
+            "1"
+        ],
+        "pairs": [
+            "DASHEUR",
+            "XXBTZEUR",
+            "DASHXBT"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "1",
+            "1"
+        ],
+        "pairs": [
+            "DASHUSD",
+            "XXBTZUSD",
+            "DASHXBT"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "0",
+            "1"
+        ],
+        "pairs": [
+            "DASHXBT",
+            "XXBTZEUR",
+            "DASHEUR"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "0",
+            "1"
+        ],
+        "pairs": [
+            "DASHXBT",
+            "XXBTZUSD",
+            "DASHUSD"
+        ]
+    },
+    {
+        "codes": [
+            "1",
+            "0",
+            "0"
+        ],
+        "pairs": [
+            "XETHZGBP",
+            "XETHXXBT",
+            "XXBTZGBP"
+        ]
+    },
+    {
+        "codes": [
+            "1",
+            "1",
+            "0"
+        ],
+        "pairs": [
+            "XXBTZGBP",
+            "XETHXXBT",
+            "XETHZGBP"
+        ]
+    },
+    {
+        "codes": [
+            "1",
+            "0",
+            "0"
+        ],
+        "pairs": [
+            "XETHZJPY",
+            "XETHXXBT",
+            "XXBTZJPY"
+        ]
+    },
+    {
+        "codes": [
+            "1",
+            "1",
+            "0"
+        ],
+        "pairs": [
+            "XXBTZJPY",
+            "XETHXXBT",
+            "XETHZJPY"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "1",
+            "1"
+        ],
+        "pairs": [
+            "XETCZEUR",
+            "XETHZEUR",
+            "XETCXETH"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "1",
+            "1"
+        ],
+        "pairs": [
+            "XETCZEUR",
+            "XXBTZEUR",
+            "XETCXXBT"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "1",
+            "1"
+        ],
+        "pairs": [
+            "XETCZUSD",
+            "XETHZUSD",
+            "XETCXETH"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "1",
+            "1"
+        ],
+        "pairs": [
+            "XETCZUSD",
+            "XXBTZUSD",
+            "XETCXXBT"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "0",
+            "1"
+        ],
+        "pairs": [
+            "XETCXETH",
+            "XETHZEUR",
+            "XETCZEUR"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "0",
+            "1"
+        ],
+        "pairs": [
+            "XETCXETH",
+            "XETHZUSD",
+            "XETCZUSD"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "0",
+            "1"
+        ],
+        "pairs": [
+            "XETCXETH",
+            "XETHXXBT",
+            "XETCXXBT"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "0",
+            "1"
+        ],
+        "pairs": [
+            "XETCXXBT",
+            "XXBTZEUR",
+            "XETCZEUR"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "0",
+            "1"
+        ],
+        "pairs": [
+            "XETCXXBT",
+            "XXBTZUSD",
+            "XETCZUSD"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "1",
+            "1"
+        ],
+        "pairs": [
+            "XETCXXBT",
+            "XETHXXBT",
+            "XETCXETH"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "0",
+            "1"
+        ],
+        "pairs": [
+            "XICNXETH",
+            "XETHXXBT",
+            "XICNXXBT"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "1",
+            "1"
+        ],
+        "pairs": [
+            "XICNXXBT",
+            "XETHXXBT",
+            "XICNXETH"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "1",
+            "1"
+        ],
+        "pairs": [
+            "XXRPZEUR",
+            "XXBTZEUR",
+            "XXRPXXBT"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "1",
+            "1"
+        ],
+        "pairs": [
+            "XXRPZUSD",
+            "XXBTZUSD",
+            "XXRPXXBT"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "0",
+            "1"
+        ],
+        "pairs": [
+            "XXRPXXBT",
+            "XXBTZEUR",
+            "XXRPZEUR"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "0",
+            "1"
+        ],
+        "pairs": [
+            "XXRPXXBT",
+            "XXBTZUSD",
+            "XXRPZUSD"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "1",
+            "0"
+        ],
+        "pairs": [
+            "XXBTZEUR",
+            "BCHEUR",
+            "BCHXBT"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "1",
+            "0"
+        ],
+        "pairs": [
+            "XXBTZEUR",
+            "XETHZEUR",
+            "XETHXXBT"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "1",
+            "0"
+        ],
+        "pairs": [
+            "XXBTZEUR",
+            "XZECZEUR",
+            "XZECXXBT"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "1",
+            "0"
+        ],
+        "pairs": [
+            "XXBTZEUR",
+            "XLTCZEUR",
+            "XLTCXXBT"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "1",
+            "0"
+        ],
+        "pairs": [
+            "XXBTZEUR",
+            "XREPZEUR",
+            "XREPXXBT"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "1",
+            "0"
+        ],
+        "pairs": [
+            "XXBTZEUR",
+            "XXMRZEUR",
+            "XXMRXXBT"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "1",
+            "0"
+        ],
+        "pairs": [
+            "XXBTZEUR",
+            "DASHEUR",
+            "DASHXBT"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "1",
+            "0"
+        ],
+        "pairs": [
+            "XXBTZEUR",
+            "XETCZEUR",
+            "XETCXXBT"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "1",
+            "0"
+        ],
+        "pairs": [
+            "XXBTZEUR",
+            "XXRPZEUR",
+            "XXRPXXBT"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "1",
+            "0"
+        ],
+        "pairs": [
+            "XXBTZCAD",
+            "XETHZCAD",
+            "XETHXXBT"
+        ]
+    },
+    {
+        "codes": [
+            "1",
+            "0",
+            "1"
+        ],
+        "pairs": [
+            "BCHXBT",
+            "BCHEUR",
+            "XXBTZEUR"
+        ]
+    },
+    {
+        "codes": [
+            "1",
+            "0",
+            "1"
+        ],
+        "pairs": [
+            "BCHXBT",
+            "BCHUSD",
+            "XXBTZUSD"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "1",
+            "0"
+        ],
+        "pairs": [
+            "XXBTZUSD",
+            "BCHUSD",
+            "BCHXBT"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "1",
+            "0"
+        ],
+        "pairs": [
+            "XXBTZUSD",
+            "XETHZUSD",
+            "XETHXXBT"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "1",
+            "0"
+        ],
+        "pairs": [
+            "XXBTZUSD",
+            "XZECZUSD",
+            "XZECXXBT"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "1",
+            "0"
+        ],
+        "pairs": [
+            "XXBTZUSD",
+            "XLTCZUSD",
+            "XLTCXXBT"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "1",
+            "0"
+        ],
+        "pairs": [
+            "XXBTZUSD",
+            "XXMRZUSD",
+            "XXMRXXBT"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "1",
+            "0"
+        ],
+        "pairs": [
+            "XXBTZUSD",
+            "DASHUSD",
+            "DASHXBT"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "1",
+            "0"
+        ],
+        "pairs": [
+            "XXBTZUSD",
+            "XETCZUSD",
+            "XETCXXBT"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "1",
+            "0"
+        ],
+        "pairs": [
+            "XXBTZUSD",
+            "XXRPZUSD",
+            "XXRPXXBT"
+        ]
+    },
+    {
+        "codes": [
+            "1",
+            "0",
+            "0"
+        ],
+        "pairs": [
+            "EOSXBT",
+            "EOSETH",
+            "XETHXXBT"
+        ]
+    },
+    {
+        "codes": [
+            "1",
+            "0",
+            "1"
+        ],
+        "pairs": [
+            "XETHXXBT",
+            "XETHZEUR",
+            "XXBTZEUR"
+        ]
+    },
+    {
+        "codes": [
+            "1",
+            "0",
+            "1"
+        ],
+        "pairs": [
+            "XETHXXBT",
+            "XETHZCAD",
+            "XXBTZCAD"
+        ]
+    },
+    {
+        "codes": [
+            "1",
+            "0",
+            "1"
+        ],
+        "pairs": [
+            "XETHXXBT",
+            "XETHZUSD",
+            "XXBTZUSD"
+        ]
+    },
+    {
+        "codes": [
+            "1",
+            "1",
+            "0"
+        ],
+        "pairs": [
+            "XETHXXBT",
+            "EOSETH",
+            "EOSXBT"
+        ]
+    },
+    {
+        "codes": [
+            "1",
+            "1",
+            "0"
+        ],
+        "pairs": [
+            "XETHXXBT",
+            "GNOETH",
+            "GNOXBT"
+        ]
+    },
+    {
+        "codes": [
+            "1",
+            "1",
+            "0"
+        ],
+        "pairs": [
+            "XETHXXBT",
+            "XREPXETH",
+            "XREPXXBT"
+        ]
+    },
+    {
+        "codes": [
+            "1",
+            "0",
+            "1"
+        ],
+        "pairs": [
+            "XETHXXBT",
+            "XETHZGBP",
+            "XXBTZGBP"
+        ]
+    },
+    {
+        "codes": [
+            "1",
+            "0",
+            "1"
+        ],
+        "pairs": [
+            "XETHXXBT",
+            "XETHZJPY",
+            "XXBTZJPY"
+        ]
+    },
+    {
+        "codes": [
+            "1",
+            "1",
+            "0"
+        ],
+        "pairs": [
+            "XETHXXBT",
+            "XETCXETH",
+            "XETCXXBT"
+        ]
+    },
+    {
+        "codes": [
+            "1",
+            "1",
+            "0"
+        ],
+        "pairs": [
+            "XETHXXBT",
+            "XICNXETH",
+            "XICNXXBT"
+        ]
+    },
+    {
+        "codes": [
+            "1",
+            "1",
+            "0"
+        ],
+        "pairs": [
+            "XETHXXBT",
+            "XMLNXETH",
+            "XMLNXXBT"
+        ]
+    },
+    {
+        "codes": [
+            "1",
+            "0",
+            "0"
+        ],
+        "pairs": [
+            "GNOXBT",
+            "GNOETH",
+            "XETHXXBT"
+        ]
+    },
+    {
+        "codes": [
+            "1",
+            "0",
+            "1"
+        ],
+        "pairs": [
+            "XZECXXBT",
+            "XZECZEUR",
+            "XXBTZEUR"
+        ]
+    },
+    {
+        "codes": [
+            "1",
+            "0",
+            "1"
+        ],
+        "pairs": [
+            "XZECXXBT",
+            "XZECZUSD",
+            "XXBTZUSD"
+        ]
+    },
+    {
+        "codes": [
+            "1",
+            "0",
+            "1"
+        ],
+        "pairs": [
+            "XLTCXXBT",
+            "XLTCZEUR",
+            "XXBTZEUR"
+        ]
+    },
+    {
+        "codes": [
+            "1",
+            "0",
+            "1"
+        ],
+        "pairs": [
+            "XLTCXXBT",
+            "XLTCZUSD",
+            "XXBTZUSD"
+        ]
+    },
+    {
+        "codes": [
+            "1",
+            "0",
+            "1"
+        ],
+        "pairs": [
+            "XREPXXBT",
+            "XREPZEUR",
+            "XXBTZEUR"
+        ]
+    },
+    {
+        "codes": [
+            "1",
+            "0",
+            "0"
+        ],
+        "pairs": [
+            "XREPXXBT",
+            "XREPXETH",
+            "XETHXXBT"
+        ]
+    },
+    {
+        "codes": [
+            "1",
+            "0",
+            "1"
+        ],
+        "pairs": [
+            "XXMRXXBT",
+            "XXMRZEUR",
+            "XXBTZEUR"
+        ]
+    },
+    {
+        "codes": [
+            "1",
+            "0",
+            "1"
+        ],
+        "pairs": [
+            "XXMRXXBT",
+            "XXMRZUSD",
+            "XXBTZUSD"
+        ]
+    },
+    {
+        "codes": [
+            "1",
+            "0",
+            "1"
+        ],
+        "pairs": [
+            "DASHXBT",
+            "DASHEUR",
+            "XXBTZEUR"
+        ]
+    },
+    {
+        "codes": [
+            "1",
+            "0",
+            "1"
+        ],
+        "pairs": [
+            "DASHXBT",
+            "DASHUSD",
+            "XXBTZUSD"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "1",
+            "0"
+        ],
+        "pairs": [
+            "XXBTZGBP",
+            "XETHZGBP",
+            "XETHXXBT"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "1",
+            "0"
+        ],
+        "pairs": [
+            "XXBTZJPY",
+            "XETHZJPY",
+            "XETHXXBT"
+        ]
+    },
+    {
+        "codes": [
+            "1",
+            "0",
+            "1"
+        ],
+        "pairs": [
+            "XETCXXBT",
+            "XETCZEUR",
+            "XXBTZEUR"
+        ]
+    },
+    {
+        "codes": [
+            "1",
+            "0",
+            "1"
+        ],
+        "pairs": [
+            "XETCXXBT",
+            "XETCZUSD",
+            "XXBTZUSD"
+        ]
+    },
+    {
+        "codes": [
+            "1",
+            "0",
+            "0"
+        ],
+        "pairs": [
+            "XETCXXBT",
+            "XETCXETH",
+            "XETHXXBT"
+        ]
+    },
+    {
+        "codes": [
+            "1",
+            "0",
+            "0"
+        ],
+        "pairs": [
+            "XICNXXBT",
+            "XICNXETH",
+            "XETHXXBT"
+        ]
+    },
+    {
+        "codes": [
+            "1",
+            "0",
+            "1"
+        ],
+        "pairs": [
+            "XXRPXXBT",
+            "XXRPZEUR",
+            "XXBTZEUR"
+        ]
+    },
+    {
+        "codes": [
+            "1",
+            "0",
+            "1"
+        ],
+        "pairs": [
+            "XXRPXXBT",
+            "XXRPZUSD",
+            "XXBTZUSD"
+        ]
+    },
+    {
+        "codes": [
+            "1",
+            "0",
+            "0"
+        ],
+        "pairs": [
+            "XMLNXXBT",
+            "XMLNXETH",
+            "XETHXXBT"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "0",
+            "1"
+        ],
+        "pairs": [
+            "XMLNXETH",
+            "XETHXXBT",
+            "XMLNXXBT"
+        ]
+    },
+    {
+        "codes": [
+            "0",
+            "1",
+            "1"
+        ],
+        "pairs": [
+            "XMLNXXBT",
+            "XETHXXBT",
+            "XMLNXETH"
+        ]
+    }
+]
